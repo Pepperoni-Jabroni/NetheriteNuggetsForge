@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "pepjebs.netherite_nugget.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "netherite_nugget.refmap.json",
+  "mixins": [
+    "NetheriteNuggetArmorMixin",
+    "NetheriteNuggetToolMixin"
+  ],
+  "minVersion": "0.8"
+}
